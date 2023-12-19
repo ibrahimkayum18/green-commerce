@@ -1,0 +1,57 @@
+[
+    {
+      "name": "Casual T-shirt",
+      "cloth_type": "T-shirt",
+      "image": "https://i.ibb.co/r0rPXSV/6382186062beb-square.jpg",
+      "price": 39.99,
+      "size": "Medium",
+      "colors": ["Red", "Blue"],
+      "brand": "FashionHub",
+      "shop_location": "City Center Mall, New York",
+      "quantity": 50
+    },
+    {
+      "name": "Classic Jeans",
+      "cloth_type": "Jeans",
+      "image": "https://i.ibb.co/1mY7Zjq/23-01.jpg",
+      "price": 29.99,
+      "size": "Large",
+      "colors": ["Black", "White"],
+      "brand": "StyleMaster",
+      "shop_location": "Fashion Plaza, Los Angeles",
+      "quantity": 30
+    },
+    {
+      "name": "Chic Blouse",
+      "cloth_type": "Blouse",
+      "image": "https://i.ibb.co/4gdzNrw/ac8919003026e856e200178deab60eb0.jpg",
+      "price": 45.50,
+      "size": "Small",
+      "colors": ["Green", "Yellow"],
+      "brand": "ChicWear",
+      "shop_location": "Chic Boutique, Chicago",
+      "quantity": 20
+    },
+    {
+      "name": "Luxury Suit",
+      "cloth_type": "Suit",
+      "image": "https://i.ibb.co/zZHff0L/SUL35-DNY-MODEL-FRONT.jpg",
+      "price": 55.00,
+      "size": "Large",
+      "colors": ["Purple", "Silver"],
+      "brand": "EliteFashion",
+      "shop_location": "Luxury Mall, San Francisco",
+      "quantity": 15
+    },
+    {
+      "name": "Trendy Dress",
+      "cloth_type": "Dress",
+      "image": "https://i.ibb.co/9T3b5YS/69d34e8b10f5b648abf5219ff3817ec9.jpg",
+      "price": 34.99,
+      "size": "Medium",
+      "colors": ["Brown", "Orange"],
+      "brand": "TrendyStyle",
+      "shop_location": "Fashion Square, Miami",
+      "quantity": 40
+    }
+  ]
