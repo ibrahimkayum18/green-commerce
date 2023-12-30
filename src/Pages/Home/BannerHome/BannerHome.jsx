@@ -1,12 +1,12 @@
 const BannerHome = () => {
   return (
-    <div className="banner bg-gradient-to-r from-indigo-600 to-purple-700 text-white py-10 md:py-20 lg:py-24"> 
-      <div className="max-w-screen-lg mx-auto lg:flex lg:justify-between items-center">
+    <div className="banner bg-gradient-to-r from-indigo-600 to-purple-700 text-white "> 
+      <div className="max-w-screen-lg mx-auto grid grid-cols-1 lg:grid-cols-2 items-center py-10 md:py-20 lg:py-24 ">
         
-        <div className="text-center lg:text-left">
+        <div className="text-center lg:text-left ">
           <div className="text-4xl font-bold mb-4">Fashion Paradise</div>
           <div className="text-lg mb-8">
-            Discover the latest trends in fashion. Shop now for the best deals!
+            Discover the latest trends in fashion in Green Commerce. Shop now for the best deals!
           </div>
         </div>
 
